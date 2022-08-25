@@ -1,0 +1,5 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/cygdrive/c/Users/Cossy/Desktop/Spider/GoLang/go-video-call'
+docker build -t Crunch-Garage/go-video-call -f containers/images/Dockerfile . && docker build -t turn -f containers/images/Dockerfile.turn .
+make: Leaving directory '/cygdrive/c/Users/Cossy/Desktop/Spider/GoLang/go-video-call'
+ 

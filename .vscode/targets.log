@@ -1,0 +1,349 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+make: *** No rule to make target 'all'.  Stop.
+
+# GNU Make 4.3
+# Built for x86_64-pc-cygwin
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+ 
+
+# Make data base, printed on Thu Aug 25 01:31:22 2022
+
+# Variables
+ 
+
+# environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+# environment
+SYSTEMDRIVE = C:
+# environment
+LC_ALL = C
+# environment
+USERPROFILE = C:\Users\Cossy
+# environment
+TMPDIR = /cygdrive/c/Users/Cossy/AppData/Local/Temp
+# environment
+LOCALAPPDATA = C:\Users\Cossy\AppData\Local
+# environment
+VSCODE_CWD = C:\Users\Cossy\Desktop\Spider\GoLang\go-video-call
+# environment
+MINGW_PREFIX = C:/Program Files/Git/mingw64
+# environment
+CHOCOLATEYINSTALL = C:\ProgramData\chocolatey
+# environment
+SYSTEMROOT = C:\Windows
+# environment
+PROCESSOR_LEVEL = 6
+# environment
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+# default
+MAKE_COMMAND := make
+# environment
+GOPATH = C:\Users\Cossy\go
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+ACLOCAL_PATH = C:\Program Files\Git\mingw64\share\aclocal;C:\Program Files\Git\usr\share\aclocal
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_12228_YGWXMARNVRWFOLZE
+# environment
+ORIGINAL_TEMP = C:/Users/Cossy/AppData/Local/Temp
+# environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# environment
+PWD = C:/Users/Cossy/Desktop/Spider/GoLang/go-video-call
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+HOSTNAME = DESKTOP-N2L12R9
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\Cossy\AppData\Roaming\Code\CachedData\e4503b30fc78200f846c62cf8091b76ff5547662
+# environment
+SSH_ASKPASS = C:/Program Files/Git/mingw64/bin/git-askpass.exe
+# environment
+LANG = C
+# default
+.LOADED := 
+# environment
+TMP = /cygdrive/c/Users/Cossy/AppData/Local/Temp
+# default
+.INCLUDE_DIRS = /usr/include /usr/include
+# makefile
+MAKEFLAGS = pqrR
+# environment
+PKG_CONFIG_PATH = C:\Program Files\Git\mingw64\lib\pkgconfig;C:\Program Files\Git\mingw64\share\pkgconfig
+# environment
+ONEDRIVE = C:\Users\Cossy\OneDrive
+# makefile
+CURDIR := /cygdrive/c/Users/Cossy/Desktop/Spider/GoLang/go-video-call
+# environment
+MSYSTEM_CARCH = x86_64
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+PROGRAMFILES = C:\Program Files
+# environment
+MFLAGS = -pqrR
+# default
+.SHELLFLAGS := -c
+# environment
+!C: = c:\Users\Cossy\Desktop\Spider\GoLang\go-video-call
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST := Makefile
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_PID = 12228
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# environment
+MINGW_CHOST = x86_64-w64-mingw32
+# automatic
+*F = $(notdir $*)
+# environment
+MANPATH = C:\Program Files\Git\mingw64\local\man;C:\Program Files\Git\mingw64\share\man;C:\Program Files\Git\usr\local\man;C:\Program Files\Git\usr\share\man;C:\Program Files\Git\usr\man;C:\Program Files\Git\share\man
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# default
+MAKE_HOST := x86_64-pc-cygwin
+# environment
+PROGRAMDATA = C:\ProgramData
+# environment
+INFOPATH = C:\Program Files\Git\usr\local\info;C:\Program Files\Git\usr\share\info;C:\Program Files\Git\usr\info;C:\Program Files\Git\share\info
+ 
+# makefile
+SHELL = /bin/sh
+# environment
+ORIGINAL_PATH = C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Cossy\bin;C:\Python310\Scripts;C:\Python310;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\PuTTY;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Git\cmd;C:\cygwin64\bin;C:\Program Files\nodejs;C:\ProgramData\chocolatey\bin;C:\Program Files\Go\bin;C:\Users\Cossy\AppData\Local\Microsoft\WindowsApps;C:\Users\Cossy\AppData\Roaming\npm;C:\Users\Cossy\go\bin
+# environment
+HOMEPATH = \Users\Cossy
+# default
+MAKECMDGOALS := all
+# environment
+SHLVL = 2
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+COMSPEC = C:\Windows\system32\cmd.exe
+# environment
+WINDIR = C:\Windows
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+PATH = /cygdrive/c/Users/Cossy/bin:/cygdrive/c/Program Files/Git/mingw64/bin:/cygdrive/c/Program Files/Git/usr/local/bin:/cygdrive/c/Program Files/Git/usr/bin:/cygdrive/c/Program Files/Git/usr/bin:/cygdrive/c/Program Files/Git/mingw64/bin:/cygdrive/c/Program Files/Git/usr/bin:/cygdrive/c/Users/Cossy/bin:/cygdrive/c/Python310/Scripts:/cygdrive/c/Python310:/cygdrive/c/Windows/system32:/cygdrive/c/Windows:/cygdrive/c/Windows/System32/Wbem:/cygdrive/c/Windows/System32/WindowsPowerShell/v1.0:/cygdrive/c/Windows/System32/OpenSSH:/cygdrive/c/Program Files/PuTTY:/cygdrive/c/Program Files/Microsoft VS Code/bin:/cygdrive/c/Program Files/Git/cmd:/usr/bin:/cygdrive/c/Program Files/nodejs:/cygdrive/c/ProgramData/chocolatey/bin:/cygdrive/c/Program Files/Go/bin:/cygdrive/c/Users/Cossy/AppData/Local/Microsoft/WindowsApps:/cygdrive/c/Users/Cossy/AppData/Roaming/npm:/cygdrive/c/Users/Cossy/go/bin:/cygdrive/c/Program Files/Git/usr/bin/vendor_perl:/cygdrive/c/Program Files/Git/usr/bin/core_perl
+# environment
+ZES_ENABLE_SYSMAN = 1
+# environment
+COMPUTERNAME = DESKTOP-N2L12R9
+# default
+MAKEFILES := 
+# automatic
+^F = $(notdir $^)
+# environment
+MINGW_PACKAGE_PREFIX = mingw-w64-x86_64
+# environment
+PROMPT = $P$G
+# environment
+CHOCOLATEYLASTPATHUPDATE = 133047876760389344
+# environment
+LOGONSERVER = \\DESKTOP-N2L12R9
+# environment
+USERNAME = Cossy
+# environment
+TERM_PROGRAM = mintty
+# environment
+COMMONPROGRAMFILES = C:\Program Files\Common Files
+# automatic
+?F = $(notdir $?)
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+MSYSTEM_CHOST = x86_64-w64-mingw32
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+# automatic
++F = $(notdir $+)
+# environment
+CONFIG_SITE = C:/Program Files/Git/etc/config.site
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERDOMAIN = DESKTOP-N2L12R9
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+OS = Windows_NT
+# environment
+MSYSTEM_PREFIX = C:/Program Files/Git/mingw64
+# makefile
+.DEFAULT_GOAL := build-dev
+# environment
+DISPLAY = needs-to-be-defined
+# default
+MAKE_VERSION := 4.3
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# environment
+ 
+USERDOMAIN_ROAMINGPROFILE = DESKTOP-N2L12R9
+# environment
+NUMBER_OF_PROCESSORS = 4
+# environment
+PUBLIC = C:\Users\Public
+# environment
+_ = C:/Program Files/Microsoft VS Code/Code.exe
+# environment
+APPDATA = C:\Users\Cossy\AppData\Roaming
+# environment
+HOMEDRIVE = C:
+# environment
+LC_CTYPE = en_US.UTF-8
+# environment
+PROCESSOR_ARCHITECTURE = AMD64
+# environment
+GOMODCACHE = C:\Users\Cossy\go\pkg\mod
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+MSYSTEM = MINGW64
+# environment
+HOME = /cygdrive/c/Users/Cossy
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+EXEPATH = C:\Program Files\Git
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+TEMP = /cygdrive/c/Users/Cossy/AppData/Local/Temp
+# environment
+TERM = xterm
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\6c48210bba8cdb724f6cc8ce50156d62-1.70.2-main-sock
+# environment
+GOPROXY = https://proxy.golang.org,direct
+# default
+.RECIPEPREFIX := 
+# environment
+ORIGINAL_TMP = C:/Users/Cossy/AppData/Local/Temp
+# automatic
+<F = $(notdir $<)
+# environment
+PLINK_PROTOCOL = ssh
+# default
+SUFFIXES := 
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+SESSIONNAME = Console
+# environment
+VSCODE_CLI = 1
+# environment
+ELECTRON_NO_ATTACH_CONSOLE = 1
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync check-symlink guile load
+# environment
+PROCESSOR_REVISION = 4e03
+# environment
+TERM_PROGRAM_VERSION = 3.6.1
+# environment
+PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+# variable set hash-table stats:
+# Load=126/1024=12%, Rehash=0, Collisions=13/154=8%
+ 
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device 2759720482, inode 2533274790537960): 17 files, no impossibilities.
+
+# 17 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+run-dev:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 10):
+	docker-compose -f containers/composes/dc.dev.yml up
+
+clean-dev:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 7):
+	docker-compose -f containers/composes/dc.dev.yml.down
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-08-23 17:42:34.2273919
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+all:
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+
+build-dev:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 4):
+	docker build -t Crunch-Garage/go-video-call -f containers/images/Dockerfile . && docker build -t turn -f containers/images/Dockerfile.turn .
+
+# files hash-table stats:
+# Load=7/1024=1%, Rehash=0, Collisions=0/17=0%
+# VPATH Search Paths
+
+ 
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 24 / storage = 192 B / avg = 8 B
+# current buf: size = 8162 B / used = 192 B / count = 24 / avg = 8 B
+
+# strcache performance: lookups = 31 / hit rate = 22%
+# hash-table stats:
+# Load=24/8192=0%, Rehash=0, Collisions=0/31=0%
+# Finished Make data base on Thu Aug 25 01:31:22 2022
+
+ 

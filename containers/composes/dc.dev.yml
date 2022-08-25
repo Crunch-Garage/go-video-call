@@ -1,0 +1,16 @@
+version: '1.0'
+
+services:
+  server:
+    image: Crunch-Garage/go-video-call
+    deploy: 
+      replicas: 1
+    restart: always
+    logging: 
+      driver: "json-file"
+      options: 
+        max-size: "200m"
+        max-file-size: "10"
+    ports:
+      - port: 8080
+    command: --addr :8080
